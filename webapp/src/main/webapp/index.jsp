@@ -9,7 +9,7 @@
     <br>
 
     <label for=" S Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter sur Name3" name="SName1" id="SName1" required>
+    <input type="text" placeholder="Enter sur Name4" name="SName1" id="SName1" required>
     <br>
 
     
