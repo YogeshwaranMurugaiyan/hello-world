@@ -5,11 +5,11 @@
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter First Name" name="FName" id="FName" required>
+    <input type="text" placeholder="Enter First Name1" name="FName1" id="FName1" required>
     <br>
 
     <label for=" S Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter second Name" name="SecondName" id="SecondName" required>
+    <input type="text" placeholder="Enter second Name1" name="SecondName1" id="SecondName1" required>
     <br>
 
     
